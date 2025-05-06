@@ -1,8 +1,8 @@
 # Correspondência multivariada - MCA
 
-Dados: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance
+Dados: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-
 
-![image](https://github.com/user-attachments/assets/ab3c17fa-c6b8-4fbd-a833-a3d845d617c1)
+![image](https://github.com/user-attachments/assets/b1d2670d-142f-4a85-a45c-1a1a063cdf0a)
 
 
 Seleciona apenas variáveis qualitativas
