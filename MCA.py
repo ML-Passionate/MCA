@@ -107,7 +107,7 @@ print(mca.explained_inertia_)
 
 mp_mca = mca.plot_coordinates(
              X = perfil_mca_select,
-             figsize=(12,12),
+             figsize=(12,9),
              show_row_points = False, #False limpa o gráfico
              show_column_points = True,
              show_row_labels=False,
